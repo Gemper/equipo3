@@ -14,4 +14,3 @@ public class loops1 {
 
         bufferedReader.close();
     }
-}
